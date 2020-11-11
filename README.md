@@ -17,8 +17,8 @@
 #### 个人信息
 > 燕山雪花大如席，片片吹落轩辕台。
 
-![](https://img.shields.io/badge/QQ-982412228-brightgreen)
-![](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-qjqdedream77-brightgreen)
+![](https://img.shields.io/badge/QQ-982412228-brightgreen)  
+![](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-qjqdedream77-brightgreen)  
 <a href="https://github.com/lovelifeloveyou">
   <img align="center" height="200px" src="https://raw.githubusercontent.com/lovelifeloveyou/somePic/master/blog/111.jpg" />
 </a>
